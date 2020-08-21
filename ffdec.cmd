@@ -1,0 +1,1 @@
+java -Xmx1024m -jar C:\extraNETv1\bin\ffdec_2.1.2\ffdec.jar %*

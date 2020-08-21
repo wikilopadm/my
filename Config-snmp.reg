@@ -1,0 +1,7 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Net-SNMP]
+"SNMPCONFPATH"="C:\extraNETv1\usr;C:\extraNETv1\usr\share\snmp\mibs;C:\extraNETv1\\usr\snmp;C:\extraNETv1\usr\share\snmp;C:\extraNETv1\usr\etc\share\snmp;C:\extraNETv1\usr\etc\snmp\persist\mib_indexes;C:\extraNETv1\usr\snmp;C:\extraNETv1\usr\snmp\persist;C:\extraNETv1\usr\snmp\persist\mib_indexes"
+"SNMPSHAREPATH"="C:\extraNETv1\usr\share\snmp"
+"InstallDir"="C:\extraNETv1"
+"Version"="5.6.1.1"

@@ -1,17 +1,15 @@
-@rem ****************************************************
-
-@rem * by Laurent PERRET - AMK-for-ever  		*
-@rem ****************************************************
-@rem ****************************************************
-@rem * Right Reserved for Bruno Cirousele - Multilink	*
-@rem * Sur ce Script SGS - Laurent PERRET		*
-@rem * la société Millennium Informatix Groupe 	sarl    *
-
-@rem ****************************************************
-@rem * (c) Laurent PERRET le 31 juin 2020		*
-@rem *     sysadmsy6@gmail.com 		                *
-
-@rem ****************************************************
+@rem ******************************************************
+@rem * by Laurent PERRET - AMK-for-ever 
+@rem ******************************************************
+@rem * Right Reserved for Bruno Cirousele.
+@rem * This Script Multilink
+@rem * La société Millennium Informatix Groupe sarl
+@rem * Hotbackup Unix
+@rem ******************************************************
+@rem * Migration from HOTBACKUP Oracle8.1.7 for Windows
+@rem * Créateur (c) Laurent PERRET janvier 2000
+@rem * sysadmsy6@gmail.com
+@rem ******************************************************
 
 @echo off
 setlocal

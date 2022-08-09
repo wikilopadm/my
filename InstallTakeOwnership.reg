@@ -1,5 +1,8 @@
 Windows Registry Editor Version 5.00
 
+; Ready by: Laurent PERRET
+; Created on: Juny 31th 2000
+
 [HKEY_CLASSES_ROOT\*\shell\runas]
 @="Take Ownership"
 "NoWorkingDirectory"=""
